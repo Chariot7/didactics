@@ -37,7 +37,9 @@ export default function Screen1() {
             mature, evolving from three to twenty sides over the span of their
             lifetimes. 
           </p>
-          <p>
+          <p style={{
+            paddingBottom: '40px'
+          }}>
             The code-execution environment that drives the animation exists both
             on a dedicated website, and eventually, as a downloadable standalone
             application. This website allows collectors who have Quantum Leap
