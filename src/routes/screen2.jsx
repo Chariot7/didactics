@@ -43,7 +43,7 @@ export default function Screen2() {
             <img
               className="productImg"
               src={
-                "https://www.lge.co.kr/kr/images/tvs/md09156845/gallery/medium01.jpg"
+                "https://i.imgur.com/pjPzZfM.png"
               }
               alt="artwork"
             />
