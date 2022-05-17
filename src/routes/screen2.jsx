@@ -27,7 +27,9 @@ export default function Screen2() {
             Quantum was the first ever to be recorded in this way.” Kevin McCoy,
             2021{" "}
           </p>
-          <p>
+          <p style={{
+            paddingBottom: '190px'
+          }}>
             “How to picture the moment of creation. A spark, a seed, a particle.
             We have narratives that describe it as an interval of days or as a
             cryptic alphabet that divides the earth from the firmament. Kevin
