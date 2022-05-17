@@ -17,6 +17,27 @@ a:visited {
    font-family: LGSMARTBOLD;
  }
 
+ h2 {
+  font-family: LGSMART;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-family: LGSMART;
+  color: #6B6B6B;
+  margin-top: 0;
+
+}
+
+.title {
+  margin-top: 0;
+  font-size: larger;
+
+}
+
+p {
+  font-family: LGSMART;
+}
  ul {
   list-style-type: none;
   margin: 0;
@@ -58,6 +79,15 @@ hr {
 .dotholder {
   text-align: center;
   padding: 8px;
+}
+
+.text {
+  width: 67%;
+  margin: auto;
+}
+
+.productImg {
+  width: 42%;
 }
 
  @font-face {
