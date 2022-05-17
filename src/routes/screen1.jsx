@@ -38,7 +38,7 @@ export default function Screen1() {
             lifetimes. 
           </p>
           <p style={{
-            paddingBottom: '60px'
+            paddingBottom: '90px'
           }}>
             The code-execution environment that drives the animation exists both
             on a dedicated website, and eventually, as a downloadable standalone
