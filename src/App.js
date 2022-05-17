@@ -1,6 +1,6 @@
+import "./App.css";
 import { Outlet } from "react-router-dom";
 import { Navbar } from "./Components/StyledNavbar";
-import "./App.css";
 
 export default function App() {
   return (

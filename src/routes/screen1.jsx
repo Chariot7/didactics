@@ -12,12 +12,12 @@ export default function Screen1() {
           <h2>Jennifer McCoy</h2>
           <h3>Sacramento, CA, born 1968</h3>
 
-          <h2 className="title">
+          <span className="title">
             <span style={{ fontFamily: "LGSMARTBOLD" }}>
               Quantum Leap, Primordial Star 3
             </span>
             , 2022
-          </h2>
+          </span>
           <p>
             Quantum Leap: Primordial Star 3 is a new NFT from the series Quantum
             Leap, inspired by Kevin McCoy’s 2014 work Quantum, the first artwork

@@ -1,17 +1,23 @@
+import imgOne from '../images/screen1/1.png'
+import imgTwo from '../images/screen1/2.png'
+import imgThree from '../images/screen1/3.png'
+import imgFour from '../images/screen1/4.png'
+import imgFive from '../images/screen1/5.png'
+
 export const SliderData = [
     {
-        image: 'https://i.imgur.com/0rlNlNF.png'
+        image: imgOne
     },
     {
-        image: 'https://i.imgur.com/cjHcwEv.png'
+        image: imgTwo
     },
     {
-        image: 'https://i.imgur.com/z5jwMsx.png'
+        image: imgThree
     },
     {
-        image: 'https://i.imgur.com/0SBzC0z.png'
+        image: imgFour
     },
     {
-        image: 'https://i.imgur.com/v3ONkmE.jpg'
+        image: imgFive
     },
 ]
