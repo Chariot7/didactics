@@ -1,4 +1,4 @@
-nav a{
+nav a {
   text-decoration: none;
   font-family: LGSMART;
 }
@@ -9,36 +9,36 @@ nav a.active {
   color: black;
 }
 
-a:visited { 
-  color: #707070; 
- }
+a:visited {
+  color: #707070;
+}
 
- h1 {
-   font-family: LGSMARTBOLD;
- }
+h1 {
+  font-family: LGSMARTBOLD;
+}
 
- h2 {
+h2 {
   font-family: LGSMART;
   margin-bottom: 0;
 }
 
 h3 {
   font-family: LGSMART;
-  color: #6B6B6B;
+  color: #6b6b6b;
   margin-top: 0;
-
 }
 
 .title {
   margin-top: 0;
   font-size: larger;
-
+  padding-bottom: 20px;
 }
 
 p {
   font-family: LGSMART;
+  line-height: 1.6;
 }
- ul {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -65,20 +65,25 @@ hr {
   margin: 0;
 }
 
-.navmenu { margin: 0 auto }
-.navlink { display: flex; justify-content: center }
+.navmenu {
+  margin: 0 auto;
+}
+.navlink {
+  display: flex;
+  justify-content: center;
+}
 
 .dot {
-  height: 8px;
-  width: 8px;
+  height: 7px;
+  width: 7px;
   border-radius: 50%;
   display: inline-block;
-  margin: 3px;
+  margin: 5px;
 }
 
 .dotholder {
   text-align: center;
-  padding: 8px;
+  padding: 16px;
 }
 
 .text {
@@ -86,21 +91,39 @@ hr {
   margin: auto;
 }
 
+.product {
+  padding-top: 15px;
+}
 .productImg {
   width: 42%;
 }
 
- @font-face {
+.productText {
+  padding-top: 20px;
+}
+
+.productHeader {
+  color: black;
+}
+
+.productSpecs {
+  font-size: smaller;
+}
+
+.artistHeader {
+  padding-bottom: 20px;
+}
+@font-face {
   font-family: LGSMART;
   src: url(./fonts/LGSmHaR_v1.4_151215.ttf);
 }
 
- @font-face {
+@font-face {
   font-family: LGSMARTSEMIBOLD;
   src: url(./fonts/LGSmHaSB_v1.4_151215.ttf);
 }
 
- @font-face {
+@font-face {
   font-family: LGSMARTBOLD;
   src: url(./fonts/LGSmHaB_v1.4_151215.ttf);
 }
