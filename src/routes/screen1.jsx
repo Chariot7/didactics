@@ -38,7 +38,7 @@ export default function Screen1() {
             lifetimes. 
           </p>
           <p style={{
-            paddingBottom: '40px'
+            paddingBottom: '60px'
           }}>
             The code-execution environment that drives the animation exists both
             on a dedicated website, and eventually, as a downloadable standalone
@@ -58,7 +58,7 @@ export default function Screen1() {
               alt="artwork"
             />
             <div className="productText">
-              <h3 className="productHeader">LG Transparent OLED Signage</h3>
+              <h3 className="productHeader">LG Transparent OLED</h3>
               <p className="productSpecs">
                 55 inch, 1920x1080, FHD <br></br>
                 Anti-Reflection treatment on 4mm safety glass <br></br>
