@@ -7,7 +7,9 @@ export default function Screen1() {
       <ImageSlider slides={SliderData} />
       <div className="text">
         <body>
-          <div>
+          <div style={{
+            paddingTop: '40px'
+          }}>
           <h2>Jennifer and Kevin McCoy</h2>
           </div>
 
