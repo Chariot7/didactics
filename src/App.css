@@ -93,6 +93,8 @@ hr {
 
 .product {
   padding-top: 15px;
+  position: relative;
+  bottom: 0;
 }
 .productImg {
   width: 42%;
