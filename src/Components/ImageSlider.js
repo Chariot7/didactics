@@ -33,7 +33,7 @@ export const ImageSlider = ({ slides }) => {
                 src={slide.image}
                 alt="artwork"
                 className="image"
-                style={{ width: "70%" }}
+                style={{ width: "74%" }}
               />
             )}
           </div>

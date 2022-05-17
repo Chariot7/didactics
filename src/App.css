@@ -44,6 +44,7 @@ h3 {
 
 .slider {
   height: 370px;
+  padding-bottom: 20px;
 }
 
 p {
@@ -101,7 +102,7 @@ hr {
 }
 
 .text {
-  width: 72%;
+  width: 78%;
   margin: auto;
 }
 
