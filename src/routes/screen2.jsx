@@ -8,7 +8,6 @@ export default function Screen2() {
       <div className="text">
         <body>
           <h2>Kevin McCoy</h2>
-          <h3>Seattle, WA, born 1967</h3>
 
           <h2 className="title">
             <span style={{ fontFamily: "LGSMARTBOLD" }}>Quantum</span>, 2014

@@ -7,10 +7,7 @@ export default function Screen4() {
       <ImageSlider slides={SliderData} />
       <div className="text">
         <body>
-          <h2>Kevin McCoy</h2>
-          <h3>Seattle, WA, born 1967</h3>
-          <h2>Jennfier McCoy</h2>
-          <h3>Sacramento, CA, born 1968</h3>
+          <h2>Jennifer and Kevin McCoy</h2>
 
           <h2 className="title">
             <span style={{ fontFamily: "LGSMARTBOLD" }}>

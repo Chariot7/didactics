@@ -23,6 +23,8 @@ h2 {
   font-family: LGSMART;
   margin-bottom: 0;
   font-size: xx-large;
+  padding-top: 40px;
+  padding-bottom: 10px;
 }
 
 h3 {
@@ -33,10 +35,11 @@ h3 {
 }
 
 .title {
-  margin-top: 0;
+  margin-top: 10px;
   font-size: x-large;
   padding-bottom: 20px;
   font-style: italic;
+  font-family: LGSMART;
 }
 
 .slider {
