@@ -7,7 +7,9 @@ export default function Screen1() {
       <ImageSlider slides={SliderData} />
       <div className="text">
         <body>
+          <div>
           <h2>Jennifer and Kevin McCoy</h2>
+          </div>
 
           <span className="title">
             <span style={{ fontFamily: "LGSMARTBOLD" }}>
