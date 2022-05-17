@@ -33,7 +33,7 @@ export default function Screen4() {
             <img
               className="productImg"
               src={
-                "https://www.lge.co.kr/kr/images/tvs/md09062827/gallery/medium06.jpg"
+                "https://i.imgur.com/NPTpSAo.png"
               }
               alt="artwork"
             />
