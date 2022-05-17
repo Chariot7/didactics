@@ -19,7 +19,7 @@ export default function Screen4() {
             , 2022
           </h2>
           <p style={{
-            paddingBottom: '430px'
+            paddingBottom: '470px'
           }}>
             Each Quantum Leap: Primordial Star slowly loses its color over the
             course of its lifespan, finally producing a Dark Star. This token is
@@ -33,7 +33,7 @@ export default function Screen4() {
             <img
               className="productImg"
               src={
-                "https://i.imgur.com/NPTpSAo.png"
+                "https://i.imgur.com/xc6b1yb.png"
               }
               alt="artwork"
             />
