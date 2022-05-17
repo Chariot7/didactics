@@ -22,11 +22,12 @@ export const ImageSlider = ({ slides }) => {
         console.log(slide, index, current, slides.length);
         return (
           <div
-            style={{ textAlign: "center" }}
+            style={{ textAlign: "center"}}
             className={index === current ? "slide active" : "slide"}
             key={index}
           >
             {index === current && (
+              
               <img
                 src={slide.image}
                 alt="artwork"
