@@ -20,12 +20,14 @@ h1 {
 h2 {
   font-family: LGSMART;
   margin-bottom: 0;
+  font-size: xx-large;
 }
 
 h3 {
   font-family: LGSMART;
   color: #6b6b6b;
   margin-top: 0;
+  font-size: larger;
 }
 
 .title {
