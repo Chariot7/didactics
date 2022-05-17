@@ -18,7 +18,7 @@ export const ImageSlider = ({ slides }) => {
     }
 
   return (
-    <section classnam="slider">
+    <section className="slider">
       {slides.map((slide, index) => {
         console.log(slide, index, current, slides.length);
         return (

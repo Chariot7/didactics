@@ -39,6 +39,10 @@ h3 {
   font-style: italic;
 }
 
+.slider {
+  height: 370px;
+}
+
 p {
   font-family: LGSMART;
   line-height: 1.6;
