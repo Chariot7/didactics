@@ -28,7 +28,7 @@ export default function Screen2() {
             2021{" "}
           </p>
           <p style={{
-            paddingBottom: '190px'
+            paddingBottom: '230px'
           }}>
             “How to picture the moment of creation. A spark, a seed, a particle.
             We have narratives that describe it as an interval of days or as a

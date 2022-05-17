@@ -18,7 +18,9 @@ export default function Screen4() {
             </span>
             , 2022
           </h2>
-          <p>
+          <p style={{
+            paddingBottom: '430px'
+          }}>
             Each Quantum Leap: Primordial Star slowly loses its color over the
             course of its lifespan, finally producing a Dark Star. This token is
             a “memento mori,” an animated ghost of what was once living. After

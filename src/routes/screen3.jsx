@@ -33,7 +33,9 @@ export default function Screen3() {
             conventional materials such as ink and paper to physically create
             the drawings.
           </p>
-          <p>
+          <p style={{
+            paddingBottom: '190px'
+          }}>
             Each new drawing has one or more corresponding NFTs that use code to
             “perform” the drawing, either as pixels or ink. Anyone wishing to
             acquire a work in the series must choose between the NFT and the
