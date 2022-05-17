@@ -28,7 +28,7 @@ export default function Screen1() {
               <img className='productImg' src={'https://www.lg.com/global/images/business/information-display/oled-signage/md07528807/gallery/medium01.jpg'} alt="artwork"  />
               <div>
                 <h3>
-                  Transparent OLED Signage
+                  LG Transparent OLED Signage
                 </h3>
                 <p>
                   55 inch, 1920x1080, FHD <br></br>
