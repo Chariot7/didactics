@@ -1,17 +1,29 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import ReactDOM from "react-dom/client";
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+} from "react-router-dom";
+import App from "./App";
+import Screen1 from "./routes/screen1";
+import Screen2 from "./routes/screen2";
+import Screen3 from "./routes/screen3";
+import Screen4 from "./routes/screen4";
+import Artists from "./routes/artists";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+const root = ReactDOM.createRoot(
+  document.getElementById("root")
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+root.render(
+  <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<App />}>
+        <Route path="screen1" element={<Screen1 />} />
+        <Route path="screen2" element={<Screen2 />} />
+        <Route path="screen3" element={<Screen3 />} />
+        <Route path="screen4" element={<Screen4 />} />
+        <Route path="artists" element={<Artists />} />
+      </Route>
+    </Routes>
+  </BrowserRouter>
+);

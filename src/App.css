@@ -1,38 +1,76 @@
-.App {
+nav a{
+  text-decoration: none;
+  font-family: LGSMART;
+}
+
+nav a.active {
+  border-bottom: 3px solid #a50034;
+  font-family: LGSMARTSEMIBOLD;
+  color: black;
+}
+
+a:visited { 
+  color: #707070; 
+ }
+
+ h1 {
+   font-family: LGSMARTBOLD;
+ }
+
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
   text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-decoration: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+hr {
+  margin: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navmenu { margin: 0 auto }
+.navlink { display: flex; justify-content: center }
+
+.dot {
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 3px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.dotholder {
+  text-align: center;
+  padding: 8px;
 }
 
-.App-link {
-  color: #61dafb;
+ @font-face {
+  font-family: LGSMART;
+  src: url(./fonts/LGSmHaR_v1.4_151215.ttf);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+ @font-face {
+  font-family: LGSMARTSEMIBOLD;
+  src: url(./fonts/LGSmHaSB_v1.4_151215.ttf);
+}
+
+ @font-face {
+  font-family: LGSMARTBOLD;
+  src: url(./fonts/LGSmHaB_v1.4_151215.ttf);
 }
