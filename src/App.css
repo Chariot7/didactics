@@ -1,6 +1,8 @@
 nav a {
   text-decoration: none;
   font-family: LGSMART;
+  color: #707070;
+  font-size: large;
 }
 
 nav a.active {
@@ -27,12 +29,12 @@ h3 {
   font-family: LGSMART;
   color: #6b6b6b;
   margin-top: 0;
-  font-size: x-large;
+  font-size: larger;
 }
 
 .title {
   margin-top: 0;
-  font-size: larger;
+  font-size: x-large;
   padding-bottom: 20px;
 }
 
