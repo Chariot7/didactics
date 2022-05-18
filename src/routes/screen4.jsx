@@ -8,7 +8,7 @@ export default function Screen4() {
       <div className="text">
         <body>
         <div style={{
-            paddingTop: '18px'
+            paddingTop: '20px'
           }}>
           <h2>Jennifer and Kevin McCoy</h2>
           </div>
@@ -17,7 +17,7 @@ export default function Screen4() {
               Quantum Leap 3: Dark Star, 2022
           </span>
           <p style={{
-            paddingBottom: '580px'
+            paddingBottom: '605px'
           }}>
             Each <span className="italic">Quantum Leap: Primordial Star</span> slowly loses its color over the
             course of its lifespan, finally producing a Dark Star. This token is
