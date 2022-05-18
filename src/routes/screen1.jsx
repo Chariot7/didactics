@@ -40,7 +40,7 @@ export default function Screen1() {
           }}>
             The code-execution environment that drives the animation exists both
             on a dedicated website, and eventually, as a downloadable standalone
-            application. This website allows collectors who have <span className="italic">Quantum Leap</span> 
+            application. This website allows collectors who have <span className="italic">Quantum Leap </span> 
             tokens to visit the site, connect their wallets (or download the
             application), and see the artwork that corresponds to their token.
             The software will read the specific tokens and derive operational

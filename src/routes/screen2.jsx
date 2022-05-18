@@ -7,15 +7,19 @@ export default function Screen2() {
       <ImageSlider slides={SliderData} />
       <div className="text">
         <body>
+        <div style={{
+            paddingTop: '15px'
+          }}>
           <h2>Kevin McCoy</h2>
+          </div>
 
-          <h2 className="title">
-            <span style={{ fontFamily: "LGSMARTBOLD" }}>Quantum</span>, 2014
-          </h2>
+          <span className="title">
+            Quantum, 2014
+          </span>
           <p>
             This code-driven work – the first-ever artwork to be tokenized on a
             blockchain – narrates an ongoing, abstract cycle of birth, death,
-            and rebirth through color, line, and movement. Following its sales
+            and rebirth through color, line, and movement. Following its sale
             at “Natively Digital: A Curated NFT Sale” at Sotheby’s in 2021, the
             work was on view at The Hermitage Museum and at The Decentral Art
             Pavilion during the 59th Venice Biennale.{" "}
@@ -23,16 +27,16 @@ export default function Screen2() {
           <p>
             “In 2014, I had an idea to use blockchain technology to create
             indelible provenance and ownership of digital images of this kind.
-            Quantum was the first ever to be recorded in this way.” Kevin McCoy,
+            <span className="italic">Quantum</span> was the first ever to be recorded in this way.” Kevin McCoy,
             2021{" "}
           </p>
           <p style={{
-            paddingBottom: '230px'
+            paddingBottom: '190px'
           }}>
             “How to picture the moment of creation. A spark, a seed, a particle.
             We have narratives that describe it as an interval of days or as a
             cryptic alphabet that divides the earth from the firmament. Kevin
-            McCoy’s Quantum takes its place alongside other original icons
+            McCoy’s <span className="italic">Quantum</span> takes its place alongside other original icons
             replacing their aura and gilding with a pulsating luminous
             heartbeat. To call this a mandala would not be an understatement,
             since what is a mandala if not an allegory for a universe, its
