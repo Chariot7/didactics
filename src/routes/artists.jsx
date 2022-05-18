@@ -11,10 +11,11 @@ export default function Artists() {
             className="image"
             style={{ width: "100%", display: "block" }}
           ></img>
-          <h2 style={{ paddingTop: "20px" }}>Kevin McCoy</h2>
-          <h3>Seattle, WA, born 1967</h3>
-          <h2>Jennifer McCoy</h2>
-          <h3 className="artistHeader">Sacramento, CA, born 1968</h3>
+          <div style={{
+            paddingTop: '20px'
+          }}>
+          <h2>Jennifer and Kevin McCoy</h2>
+          </div>
 
           <p>
             In 2014, artist Kevin McCoy minted the world’s first digital art
