@@ -48,7 +48,7 @@ export default function Screen2() {
             <img
               className="productImg"
               src={
-                "https://i.imgur.com/pjPzZfM.png"
+                "https://i.imgur.com/xc6b1yb.png"
               }
               alt="artwork"
             />

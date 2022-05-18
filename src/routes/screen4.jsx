@@ -31,7 +31,7 @@ export default function Screen4() {
             <img
               className="productImg"
               src={
-                "https://i.imgur.com/xc6b1yb.png"
+                "https://i.imgur.com/pjPzZfM.png"
               }
               alt="artwork"
             />

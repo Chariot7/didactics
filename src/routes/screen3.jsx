@@ -39,7 +39,9 @@ In this series, a correspondence is made between ‘drawing’ as performative a
               }
               alt="artwork"
             />
-            <div className="productText">
+            <div style={{
+              paddingTop: '26px'
+            }}>
               <h3 className="productHeader">
                 LG G2 77-inch OLED evo Gallery Edition TV w/AI ThinQ
               </h3>
