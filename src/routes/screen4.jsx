@@ -8,7 +8,7 @@ export default function Screen4() {
       <div className="text">
         <body>
         <div style={{
-            paddingTop: '15px'
+            paddingTop: '18px'
           }}>
           <h2>Jennifer and Kevin McCoy</h2>
           </div>
@@ -17,12 +17,12 @@ export default function Screen4() {
               Quantum Leap 3: Dark Star, 2022
           </span>
           <p style={{
-            paddingBottom: '470px'
+            paddingBottom: '490px'
           }}>
-            Each Quantum Leap: Primordial Star slowly loses its color over the
+            Each <span className="italic">Quantum Leap: Primordial Star</span> slowly loses its color over the
             course of its lifespan, finally producing a Dark Star. This token is
             a “memento mori,” an animated ghost of what was once living. After
-            producing this token, Quantum Leap: Primordial Star is reborn in
+            producing this token, <span className="italic">Quantum Leap: Primordial Star</span> is reborn in
             full color with a new central shape and palette, replicating and
             generating new tokens autonomously.  
           </p>
