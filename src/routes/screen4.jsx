@@ -17,7 +17,7 @@ export default function Screen4() {
               Quantum Leap 3: Dark Star, 2022
           </span>
           <p style={{
-            paddingBottom: '550px'
+            paddingBottom: '580px'
           }}>
             Each <span className="italic">Quantum Leap: Primordial Star</span> slowly loses its color over the
             course of its lifespan, finally producing a Dark Star. This token is
