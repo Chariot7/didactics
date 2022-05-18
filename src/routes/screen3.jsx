@@ -7,15 +7,16 @@ export default function Screen3() {
       <ImageSlider slides={SliderData} />
       <div className="text">
         <body>
+        <div style={{
+            paddingTop: '15px'
+          }}>
           <h2>Jennifer and Kevin McCoy</h2>
+          </div>
         
 
-          <h2 className="title">
-            <span style={{ fontFamily: "LGSMARTBOLD" }}>
-              Quantum Entanglement
-            </span>
-            , 2022
-          </h2>
+          <span className="title">
+              Quantum Entanglement, 2022
+          </span>
           <p>“the NFT that draws”</p>
           <p>
             Quantum Entanglement is a new hybrid work consisted of drawing and
