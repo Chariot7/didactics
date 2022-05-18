@@ -29,14 +29,17 @@ export default function Screen4() {
           <hr></hr>
           <div className="product" style={{ display: "flex" }}>
             <img
-              className="productImg"
+              style={{
+                width: '39%'
+              }}
               src={
                 "https://i.imgur.com/pjPzZfM.png"
               }
               alt="artwork"
             />
             <div style={{
-              paddingTop: '26px'
+              paddingTop: '23px',
+              paddingLeft: '17px'
             }}>
               <h3 className="productHeader">
                 LG 65-inch OLED evo Objet Collection
