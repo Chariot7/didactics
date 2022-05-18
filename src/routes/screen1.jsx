@@ -8,7 +8,7 @@ export default function Screen1() {
       <div className="text">
         <body>
           <div style={{
-            paddingTop: '10px'
+            paddingTop: '15px'
           }}>
           <h2>Jennifer and Kevin McCoy</h2>
           </div>
@@ -39,7 +39,7 @@ export default function Screen1() {
             lifetimes. 
           </p>
           <p style={{
-            paddingBottom: '80px'
+            paddingBottom: '60px'
           }}>
             The code-execution environment that drives the animation exists both
             on a dedicated website, and eventually, as a downloadable standalone
