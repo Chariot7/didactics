@@ -7,14 +7,15 @@ export default function Screen4() {
       <ImageSlider slides={SliderData} />
       <div className="text">
         <body>
+        <div style={{
+            paddingTop: '15px'
+          }}>
           <h2>Jennifer and Kevin McCoy</h2>
+          </div>
 
-          <h2 className="title">
-            <span style={{ fontFamily: "LGSMARTBOLD" }}>
-              Quantum Leap 3: Dark Star
-            </span>
-            , 2022
-          </h2>
+          <span className="title">
+              Quantum Leap 3: Dark Star, 2022
+          </span>
           <p style={{
             paddingBottom: '470px'
           }}>

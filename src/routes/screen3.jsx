@@ -8,7 +8,7 @@ export default function Screen3() {
       <div className="text">
         <body>
         <div style={{
-            paddingTop: '15px'
+            paddingTop: '18px'
           }}>
           <h2>Jennifer and Kevin McCoy</h2>
           </div>
@@ -19,11 +19,11 @@ export default function Screen3() {
           </span>
           <p>“the NFT that draws”</p>
           <p>
-          Quantum Entanglement, 2022, is a hybrid drawing/NFT project. 
+          <span className="italic">Quantum Entanglement, 2022</span>, is a hybrid drawing/NFT project. 
 In this series, a correspondence is made between ‘drawing’ as performative act and ‘the drawing’ as physical document of that performance.
           </p>
           <p>
-          The drawings of Quantum Entanglement are produced in the McCoy studio with the aid of an artists built, software assisted drawing machine. The machine, though computer driven, uses traditional artists materials.
+          The drawings of <span className="italic">Quantum Entanglement</span> are produced in the McCoy studio with the aid of an artists built, software assisted drawing machine. The machine, though computer driven, uses traditional artists materials.
           </p>
           <p style={{
             paddingBottom: '220px'
