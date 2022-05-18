@@ -14,24 +14,21 @@ export default function Screen1() {
           </div>
 
           <span className="title">
-            <span style={{ fontFamily: "LGSMARTBOLD" }}>
-              Quantum Leap, Primordial Star 3
-            </span>
-            , 2022
+              Quantum Leap: Primordial Star 3, 2022
           </span>
           <p>
-            Quantum Leap: Primordial Star 3 is a new NFT from the series Quantum
-            Leap, inspired by Kevin McCoy’s 2014 work Quantum, the first artwork
+            <span className="italic">Quantum Leap: Primordial Star 3</span> is a new NFT from the series <span className="italic">Quantum
+            Leap</span>, inspired by Kevin McCoy’s 2014 work <span className="italic">Quantum</span>, the first artwork
             ever to be tokenized on a blockchain. The word “quantum” alludes to
             the attempt in theoretical physics to develop a theory of the
             universe and to answer questions about the first phases of the
             universe. This generative, iterative process is emulated in the
-            structure of Quantum Leap, which evolves to become more complex,
+            structure of <span className="italic">Quantum Leap</span>, which evolves to become more complex,
             changing states and spinning off new versions of itself over time. 
           </p>
           <p>
-            In Quantum Leap: Primordial Star 3, several levels of code-based
-            systems interact. Visually, each token from Quantum Leap produces a
+            In <span className="italic">Quantum Leap: Primordial Star 3</span>, several levels of code-based
+            systems interact. Visually, each token from <span className="italic">Quantum Leap</span> produces a
             mandala that changes and evolves, inspired by the life cycle of the
             stars, which shift colors as they age. These “stars” also change
             form as they become more circular as the code-generated images
@@ -43,7 +40,7 @@ export default function Screen1() {
           }}>
             The code-execution environment that drives the animation exists both
             on a dedicated website, and eventually, as a downloadable standalone
-            application. This website allows collectors who have Quantum Leap
+            application. This website allows collectors who have <span className="italic">Quantum Leap</span>
             tokens to visit the site, connect their wallets (or download the
             application), and see the artwork that corresponds to their token.
             The software will read the specific tokens and derive operational

@@ -37,8 +37,7 @@ h3 {
   margin-top: 10px;
   font-size: x-large;
   padding-bottom: 20px;
-  font-style: italic;
-  font-family: LGSMART;
+  font-family: LGSMARTSEMIBOLD;
 }
 
 .slider {
@@ -112,6 +111,10 @@ hr {
 }
 .productImg {
   width: 42%;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .productText {
