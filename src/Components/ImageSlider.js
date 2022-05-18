@@ -44,8 +44,8 @@ export const ImageSlider = ({ slides }) => {
           style={{
             height: 30,
             position: "absolute",
-            right: "120px",
-            top: "356px",
+            right: "90px",
+            top: "400px",
           }}
           onClick={nextSlide}
           id="Layer_1"
@@ -84,8 +84,8 @@ export const ImageSlider = ({ slides }) => {
           style={{
             height: 30,
             position: "absolute",
-            left: "120px",
-            top: "356px",
+            left: "90px",
+            top: "400px",
           }}
           onClick={prevSlide}
           id="Layer_1"
