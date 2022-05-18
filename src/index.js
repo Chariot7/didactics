@@ -3,6 +3,7 @@ import {
   BrowserRouter,
   Routes,
   Route,
+  Redirect
 } from "react-router-dom";
 import App from "./App";
 import Screen1 from "./routes/screen1";
@@ -18,7 +19,7 @@ root.render(
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<App />}>
-        <Route path="screen1" element={<Screen1 />} />
+        <Route path="/" element={<Screen1 />} />
         <Route path="screen2" element={<Screen2 />} />
         <Route path="screen3" element={<Screen3 />} />
         <Route path="screen4" element={<Screen4 />} />

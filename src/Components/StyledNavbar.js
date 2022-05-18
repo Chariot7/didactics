@@ -7,7 +7,7 @@ export const Navbar = () => {
                 <div className='navlink'>
                     <ul>
                         <li>
-                            <NavLink to="/screen1">Artwork 1</NavLink> 
+                            <NavLink to="/">Artwork 1</NavLink> 
                         </li>
                         <li>
                             <NavLink to="/screen2">Artwork 2</NavLink> 
