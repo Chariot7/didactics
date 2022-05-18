@@ -19,27 +19,16 @@ export default function Screen3() {
           </span>
           <p>“the NFT that draws”</p>
           <p>
-            Quantum Entanglement is a new hybrid work consisted of drawing and
-            NFT from the McCoy Studio. In this series, “drawing” as performative
-            act and “the drawing” as physical document of that performance are
-            in dialouge.{" "}
+          Quantum Entanglement, 2022, is a hybrid drawing/NFT project. 
+In this series, a correspondence is made between ‘drawing’ as performative act and ‘the drawing’ as physical document of that performance.
           </p>
           <p>
-            Both the physical drawings and the digital animations of Quantum
-            Entanglement are produced in the McCoy studio with the aid of a
-            software and a robotic drawing machine that are designed and
-            fabricated by the artists. Though computer-driven, the machine uses
-            conventional materials such as ink and paper to physically create
-            the drawings.
+          The drawings of Quantum Entanglement are produced in the McCoy studio with the aid of an artists built, software assisted drawing machine. The machine, though computer driven, uses traditional artists materials.
           </p>
           <p style={{
-            paddingBottom: '190px'
+            paddingBottom: '220px'
           }}>
-            Each new drawing has one or more corresponding NFTs that use code to
-            “perform” the drawing, either as pixels or ink. Anyone wishing to
-            acquire a work in the series must choose between the NFT and the
-            physical artwork. The acquisition of one ensures the demise of the
-            other.
+            Each drawing has one or more correspondent NFTs that use code to ‘perform’ the drawing substituting pixels for ink.  Anyone wishing to acquire a work in the series must choose between the NFT and the physical artwork.  The acquisition of one insures the demise of the other.
           </p>
           <hr></hr>
           <div className="product" style={{ display: "flex" }}>
