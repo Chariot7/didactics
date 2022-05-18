@@ -17,7 +17,7 @@ export default function Screen4() {
               Quantum Leap 3: Dark Star, 2022
           </span>
           <p style={{
-            paddingBottom: '490px'
+            paddingBottom: '550px'
           }}>
             Each <span className="italic">Quantum Leap: Primordial Star</span> slowly loses its color over the
             course of its lifespan, finally producing a Dark Star. This token is
@@ -35,7 +35,9 @@ export default function Screen4() {
               }
               alt="artwork"
             />
-            <div className="productText">
+            <div style={{
+              paddingTop: '26px'
+            }}>
               <h3 className="productHeader">
                 LG 65-inch OLED evo Objet Collection
               </h3>

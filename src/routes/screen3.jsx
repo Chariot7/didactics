@@ -26,7 +26,7 @@ In this series, a correspondence is made between ‘drawing’ as performative a
           The drawings of <span className="italic">Quantum Entanglement</span> are produced in the McCoy studio with the aid of an artists built, software assisted drawing machine. The machine, though computer driven, uses traditional artists materials.
           </p>
           <p style={{
-            paddingBottom: '220px'
+            paddingBottom: '300px'
           }}>
             Each drawing has one or more correspondent NFTs that use code to ‘perform’ the drawing substituting pixels for ink.  Anyone wishing to acquire a work in the series must choose between the NFT and the physical artwork.  The acquisition of one insures the demise of the other.
           </p>
